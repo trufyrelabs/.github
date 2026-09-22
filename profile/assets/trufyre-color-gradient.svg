@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="trufyre-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="11.5%" stop-color="#FC8A17"/>
+      <stop offset="89.4%" stop-color="#3A54FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="url(#trufyre-gradient)"/>
+</svg>
